@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remarks upon a late nameless and scurrilous libel, entituled, A bank-dialogue between Dr. H.C. and a country-gentleman. In a letter to a person of quality.</title>
+            <author>Chamberlen, Hugh, fl. 1720.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18887</idno><idno type="EEBO-CITATION">99888457</idno>
+  <idno type="VID">201997</idno>
+  <idno type="EEBO-PROQUEST">2240887032</idno>
+  
+            <idno type="STC">Wing C1892</idno>
+            <idno type="STC">Interim Tract Supplement Guide 8223.e.7.[13]</idno>
+            <idno type="STC">ESTC R230209</idno>
+            <idno type="PROQUEST">ocm99888457</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888457e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201997)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C30:2[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remarks upon a late nameless and scurrilous libel, entituled, A bank-dialogue between Dr. H.C. and a country-gentleman. In a letter to a person of quality.</title>
+                  <author>Chamberlen, Hugh, fl. 1720.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle in White-Hart-Court in Gracious-street,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Hugh Chamberlen by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Bank of England --  Early works to 1800.</term>
+               <term type="topical_term">Finance --  England --  Early works to 1800.</term>
+               <term type="topical_term">Banks and banking --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land banks --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201997:1"/>
+            <head>SOME REMARKS UPON A late Nameless and Scurrilous LIBEL, ENTITULED, A BANK-Dialogue BETWEEN Dr. H. C. and a Country-Gentleman.</head>
+            <head type="sub">In a <hi>LETTER</hi> to a Person of <hi>Quality.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AT your Request, I have perused the Paper you sent me, called, <hi>A Bank Dialogue betwixt Dr.</hi> H. C. <hi>and a Countrey-Gentleman;</hi> but had not you desired my thoughts upon it, and I been willing to embrace any opportunity further to explain the Doctors Proposal, I should rather have thought it fit for a certain Necessary Use, than to de<g ref="char:EOLhyphen"/>serve an Answer.</p>
+            <p>It seems, the Author himself is conscious he is in the wrong, he takes such care to conceal not only his own Name, but also the Printers: However, he resolves to throw Dirt enough, hoping some may stick.</p>
+            <p>What may not any Man ridicule, by making another talk Nonsence in a Dialogue of his own Invention, and when he himself frames the Answer? Is not this like setting up a Man of Straw, and then fighting against it?</p>
+            <p>As for the Doctor's <hi>being the first Setter on foot</hi> the Notion of a Land-Bank, or of giving Bills of Credit upon a Land-Fund; if he was not, pray who was? For the Comparison in the Margent doth not hold; for what parity is there betwixt assigning a <hi>single Mortgage toties quoties,</hi> and settling Land for a Term, to answer Bills of Cre<g ref="char:EOLhyphen"/>dit issued out thereon, and recalled annually, till the whole be paid off or cancell'd? That this Notion of a Land-Bank was <hi>borrowed</hi> from the Doctor, may reasonably be supposed; for all People frequenting the House of Commons, know, that the Doctor proposed his Land-Credit to the Parliament, some years before the Bank of <hi>England</hi> was set up, or so much as thought on; and a Committee sat upon his Proposal, which Committee was composed of several knowing Gentlemen of most exquisite Sense, who all were of opinion that the Doctor's Proposal was Practicable, tho' our <hi>Anony<g ref="char:EOLhyphen"/>mus</hi> is of another Mind; and the Reason is, because the Doctor's Proposal is not cal<g ref="char:EOLhyphen"/>culated for his shallow Capacity: But the Gentlemen, Setters up of the Bank of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> found afterwards more Favour, and obtained 120000 <hi>l.</hi> a year to set up a Bank, when the Doctor would and could, as the Committee were satisfied, have given 120000 <hi>l.</hi> a year to have had the same Favour; and this Mr. <hi>Pa.</hi> knows well, for
+<pb facs="tcp:201997:2"/>tho' they left the Doctor, to set up the Bank of <hi>England,</hi> yet the Gentlemen of that Bank, if you may believe what Mr. <hi>Pa.</hi> hath Printed, served him in his kind, and left him without his expected Reward; and from that we have the Orphans Bank, and by their Example the Million Bank.</p>
+            <p>The Doctor is not ashamed of his Proposal or Offer to pay off the Bank of <hi>England,</hi> and is still ready to do it, if the Parliament shall think fitting, and make all C<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipt Money good, as far as One Million and Eight hundred thousand pounds will go; and for this desires but 20000 <hi>l. per annum</hi> to be added to the Fund the Bank of <hi>England</hi> now hath; and to get Money to do it, he desires only the same Favour and Encou<g ref="char:EOLhyphen"/>ragement from the Parliament and Court the Bank of <hi>England</hi> had; and he will sub<g ref="char:EOLhyphen"/>mit his Office of Land-Credit to such Comptroul as the Parliament shall think sit; to take care that no Bills of Credit be issued but what have a gond Security to repay them in a convenient time: For the Doctor thinks it neither for the Benefit of the King of Kingdom, that any Body or Bodies of Men; should have such an Unlimited Power, as the Banks of <hi>England</hi> assume, to give what Notes they please for Money, <hi>ad infinitum,</hi> without any Security; for at that Rate, such a Body may run into a Credit of 1000 Millions, (as that Gentleman talks) and if those that have Money or Credit enough (which is all one) may do what they please, it is to the Integrity of their Minds alone that we are beholden, if they do nothing to the prejudice of our English Constitution, or the Interest of particular Persons.</p>
+            <p>To Answer this Scribler of Knight-Errantry, would argue I had as little Brains, as little to do, and as much Malice as he: Therefore for Answer to all that Stuff, I will refer to <hi>T. D.</hi>'s Third part of <hi>Don Quixot.</hi>
+            </p>
+            <p>Certainly this Author did himself and the Doctor more right, than be thought of, in making the Doctor say, in page 2. (Dr. <hi>This it is to have to do with such Thick Skull'd Animals,</hi> &amp;c.) for <hi>his Kettle wants scouring,</hi> tho' Oaken Bark is fitter for him than <hi>Crocus.</hi>
+            </p>
+            <p>All the strength of this Spark's Dialogue (if there be any) seeme to lie against the length of Time, <hi>viz.</hi> That 150 <hi>l. per annum,</hi> for 150 years, is not a Security for 10000 <hi>l.</hi> Nor doth the Doctor say directly, as Security now goes, it is, all at once; but if the Doctor should grant that, yet it is as good a Security as the Bank of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> gives for their Notes; Or as <hi>Exeter Change</hi> for theirs; Or as <hi>Briscoe</hi> will for his, if ever he shall give any: For if any Bank in the World is call'd upon all at once, for all the Money they have given their Notes for, they must break.</p>
+            <p>As for Example:</p>
+            <p>Dr. <hi>Barebone</hi> settled a Fund of Ground-Rent to Insure Houses from Fire, and tho' there are more Houses Insured than the Value of the said Fund, yet none doubts the Security, it being Land; because of the Improbability all should be burn'd together: But if this were a Personal Security, as the Bank Notes are, I doubt few will trust it. But 150 <hi>l. per annum</hi> is a good Security to pay 100 <hi>l. per annum;</hi> and why the Do<g ref="char:EOLhyphen"/>ctor's Office of Land Credit, may not with 1000 <hi>l.</hi> turn 10000 <hi>l.</hi> (for so is his Pro<g ref="char:EOLhyphen"/>posal, as hereafter is shown) as well as other Banks issue out Bills of Credit <hi>ad libi<g ref="char:EOLhyphen"/>tum,</hi> beyond their Fund, is to me a great Mystery.</p>
+            <p>I have indeed heard this answered; but how? <hi>(viz.)</hi> The People must be cheated into a Credit: And therefore other Banks, tho' they go beyond their Fund, tell the World they do not, so the People suppose there is a good Fund; but the Doctor, tells the World, his Bills must infallibly be answered in one hundred years, as the Truth is, and so no one can be a Looser, if they go in the mean time; whereas he should have told them he would have set up at 20 years, because Land is worth but 20 years Purchase; and notwithstanding have issued out Bills of Credit to as many Millions as would not have been called in, in 100 or 1000 years; and then He had done his business: But he must tell Folks the Truth, and give them good Security. if their own Impatience doth not hinder it; therefore <hi>He is simple all over,</hi> and his Bank not worth a Farthing.</p>
+            <pb facs="tcp:201997:2"/>
+            <p>But to explain the Doctor's Proposal a little better; Every Man is to <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ett<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e 150. <hi>l. per annum</hi> for 150 years, to secure 100 <hi>l. per annum</hi> for 100 years; and to pay and re<g ref="char:EOLhyphen"/>ceive as follows, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="4">To pay</cell>
+                     <cell>Down</cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>At one years end</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>At two years end</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>At three years end</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1000</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" rows="5">To receive</cell>
+                     <cell>Down</cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>At one years end</cell>
+                     <cell>1100</cell>
+                  </row>
+                  <row>
+                     <cell>At two years end</cell>
+                     <cell>1200</cell>
+                  </row>
+                  <row>
+                     <cell>At three years end</cell>
+                     <cell>1300</cell>
+                  </row>
+                  <row>
+                     <cell>At four years end</cell>
+                     <cell>1400</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now this is plain, here is the first year 400 <hi>l.</hi> to turn 1000 <hi>l.</hi> in Bills, which is not two Thirds more in Credit, and so on, besides the Peoples bringing in running Cash, the Profits of the Joynt Stock; and all other Helps not yet published to the World, that are to make the Bills current.</p>
+            <p>Besides this, Every Persons Land stands but a Security for his own Receipt; and if this Undertaking should fail, every Person being bound to repay their Credit, and take back their Land, none can in two or three years lose by it, for there is Fund enough for so many years, to Insure every body; for 150 <hi>l. per annum</hi> is worth Three thousand pounds, and one thousand pounds paid in Money, makes 4000 <hi>l.</hi> And in three years time the Office payeth out but 4600 <hi>l.</hi> and receives about 200 <hi>l.</hi> in Rent; so no Person can be any great Loser, who takes these Bills for three years; and by that time it is not doubted but by the Profits of the Joynt Stock, running Cash, and other helps, this Undertaking may stand the shock of Malice: For I may say (as Mr. <hi>Bris<g ref="char:EOLhyphen"/>coe</hi> heretofore said) <hi>This Ʋndertaking is thought no Security for want of being understood;</hi> and the more this is known, the better it will be liked, and the more Credit given to it; for it pays off every year 100000 <hi>l.</hi> and so the Security is every year better and better, not worse and worse, like some others, and so many of the Bills must be called for, or cancell'd.</p>
+            <p>I have already shewn you how the Bank of <hi>England,</hi> the Orphans and Million-Banks came to be set up; there remains Mr. <hi>Briscoe</hi> and Mr. <hi>Asgil,</hi> who were both concerned with the Doctor, when he offered his Proposals to the House of Commons; but Mr. <hi>Briscoe</hi> finding the Bank of <hi>England</hi> set up, and that the Doctor's Notion of one hundred years was not understood by many People, tho' all were fond of a Bank with Land-Security, was resolved to try his Fortune by himself, and so gets a <hi>Book</hi> to be written, and would needs set up a National <hi>Land-Bank,</hi> at the rate of 20 years Purchase, and gets Subscriptions for Land; but Mr. <hi>Asgil</hi> finding Money necessary, begins before him with a Money-Bank, but calls it a Land Bank, finding likewise the Doctor's Notion of Land-Security to take with the Nation; and <hi>Briscoe,</hi> seeing him<g ref="char:EOLhyphen"/>self a ground with his Land only, tacks about, and takes Subscriptions for Money, and promiseth the World he will make Land worth 40 years Purchase, and to his Money-Subscriber 20 <hi>per Cent.</hi> for their Money; and so they both may issue out Bills without Limitation, and, if they please, cheat the World; one having no Land-Security at all, and neither of them able to make any Profit, except by issuing out a vast Credit, more than they have a Fund to answer; with which they may, (when they get the Money) make Dividends, monopolize Commodities, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uine Trade, having none to controul them.</p>
+            <p>But both the Doctor's Proposal, and the Constitution of his Office, are of another nature, and have such a Comptroul, that they can neither issue out Bills of Credit beyond their Fund, nor Monopolize Guineys, the Silver Coyn of the Nation, or Merchants Goods; nor can they act in any manner against the Government, or to the prejudice of other private Traders: Which Constitution will in some small time be made publick to the World.</p>
+            <pb facs="tcp:201997:3"/>
+            <p>As for his Reflection on the Doctor's making <hi>use of the Names of Persons of Quality,</hi> any Person that will come to the Doctor's Office, N<seg rend="sup">o.</seg> 6. in the New Buildings in <hi>Lin<g ref="char:EOLhyphen"/>coln</hi>'s <hi>Inn,</hi> and is acquainted with their hands, may see the Book of Subscriptions, and be his own Judge.</p>
+            <p>Less than 100 years will not pay the Charge of this Undertaking, and give the pro<g ref="char:EOLhyphen"/>posed Encouragement to Free-holders; and more would have made it less diffusive, and not so general a Good; and then what need more or less?</p>
+            <p>I assure you, Sir, of all the Ingenious Men. I ever talk'd with, none ever made a Doubt, but if this Undertaking could stand but two or three years, it could not fail; and that it hath Fund enough to answer that time according to common Security, is sufficiently evident, and herein before demonstrated.</p>
+            <p>And further to demonstrate the Goodness of the Security in the <hi>Doctor</hi>'s Proposal, I do aver, None but the Subscribers can break it; and it will always be their Interest, and in their Power, to support it; for they being to pay 100000 <hi>l.</hi> a year, to cancel Bills of Credit, should any sudden Run be, may safely advance a years Rent, or two, to prevent it; and it will be their Interest: for who will not advance 2 or 300 <hi>l.</hi> to save 3000 <hi>l.</hi> in a Joynt Stock, and preserve 5000 <hi>l.</hi> to themselves; which they must pay back, should the Bank break?</p>
+            <p>Now let us compare a little the other Banks with the Doctor's, and see which is most for the Advantage of the Subscribers, and best Security for the Bills; the <hi>Do<g ref="char:EOLhyphen"/>ctor</hi> (who receives 100000 <hi>l. per annum</hi> to pay off his Bills, whereby all must infalli<g ref="char:EOLhyphen"/>bly be paid in 100 years; and hath at least one Million in Bank to circulate the Bills issued, and the first year has 4 <hi>l.</hi> to turn 10 <hi>l.</hi> besides all the helps the other Banks have: Nor can the <hi>Doctor</hi> or his Managers any manner of way alter this, having put it out of their Power, by Comptroulers over them, not all chosen by themselves) Or the Banks that issue out Notes upon no Fund at all, or at best upon a Personal Se<g ref="char:EOLhyphen"/>curity, like the Bank of <hi>England,</hi> or <hi>Exeter Change,</hi> some of the Members of which have upon Argument been brought to own, that it hath-no Land-Security, Or <hi>Bris<g ref="char:EOLhyphen"/>coe</hi>'s, which is, yet, what you please to make it; Or the Others, which have no such Comptroul over them, but the Proprietors may act as they please for their own Pro<g ref="char:EOLhyphen"/>fit, <hi>per fas aut nefas,</hi> tho' to the Prejudice of the People, and perhaps the Government it self.</p>
+            <closer>
+               <salute>SIR, </salute>
+               <signed>I amYour Humble Servant.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>THe Reader is desired to take Notice, That notwithstanding all the Fool<g ref="char:EOLhyphen"/>ish and Malicious Reports to the contrary, The</hi> Doctor <hi>daily makes great Progress towards the putting his said Office of</hi> Land-Credit <hi>in practice; And to satisfy and remove all Doubts that any Ingenious Gentleman shall raise, Attendance is given</hi> Mondays, Wednesdays, <hi>and</hi> Fridays, <hi>after Six in the Evening in</hi> Lincolns-Inn-New-Buildings, <hi>Numb.</hi> 6. <hi>where Subscriptions to his Proposal for Improvement of the Value of Land and Money, according to an</hi> Appendix <hi>lately Printed, are daily taken.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-street,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
